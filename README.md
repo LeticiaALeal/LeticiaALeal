@@ -1,12 +1,9 @@
 # leticia
-
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Olá 👋
+Curso Análise e Desenvolvimentos de Sistemas no IFSP. SOu apaixonada por tecnologia e amo contribuir com o meu conhecimento.
+- https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white Atualmente atuo como desenvolvedora backend utilizando da linguagem Java.
+- https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB Tenho estudado alguns frameworks de front como React e Angular para aprimorar minhas habilidades.
+- books  Gosto de estar sempre me atualizando com o que há de novidade no mercado de TI. 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaALeal&show_icons=true&theme=radical)
