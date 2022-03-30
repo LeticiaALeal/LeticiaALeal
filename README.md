@@ -9,7 +9,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaALeal&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaALeal&show_icons=true&theme=radical)
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leticia-araujo-leal/)
